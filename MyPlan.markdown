@@ -33,4 +33,37 @@ Novel writing
 
 知识整理
 
+## 网络工具
+github
+
+
+## 网络资源
+
+
+## 学习工具
+欧陆词典eudic
+
+anki
+
+## 管理工具
+
+TC totalcommander
+
+mybase
+
+## 组织工具
+
+onenote
+
+zotero
+
+## 文件处理
+
+abbyy finereader
+
+## 视频处理
+
+sloveig MM video spliter
+
+fomat facotry
 
